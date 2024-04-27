@@ -4,6 +4,7 @@ Course Project
 This Python code outlines the implementation and training of a simple Sum-Product Network (SPN) using PyTorch, a powerful and versatile deep learning library. The network is designed for image classification tasks, leveraging the MNIST dataset and the Fashion MNIST dataset.
 
 _Description of Key Components:_
+
 **1. Network Architecture (SimpleSPN class):**
 
 Input Layer: The network begins with a linear transformation (nn.Linear) converting the flattened input images (28x28 pixels, hence 784 features) into a hidden_size dimensional space.
